@@ -1,0 +1,12 @@
+D:\C#\Homework8\winFormOS\bin\Debug\winFormOS.exe.config
+D:\C#\Homework8\winFormOS\bin\Debug\winFormOS.exe
+D:\C#\Homework8\winFormOS\bin\Debug\winFormOS.pdb
+D:\C#\Homework8\winFormOS\obj\Debug\winFormOS.csprojAssemblyReference.cache
+D:\C#\Homework8\winFormOS\obj\Debug\winFormOS.Form1.resources
+D:\C#\Homework8\winFormOS\obj\Debug\winFormOS.Properties.Resources.resources
+D:\C#\Homework8\winFormOS\obj\Debug\winFormOS.csproj.GenerateResource.cache
+D:\C#\Homework8\winFormOS\obj\Debug\winFormOS.csproj.CoreCompileInputs.cache
+D:\C#\Homework8\winFormOS\obj\Debug\winFormOS.exe
+D:\C#\Homework8\winFormOS\obj\Debug\winFormOS.pdb
+D:\C#\Homework8\winFormOS\obj\Debug\winFormOS.Form2.resources
+D:\C#\Homework8\winFormOS\obj\Debug\winFormOS.Form3.resources
