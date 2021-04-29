@@ -1,0 +1,575 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<link rel="pingback" href="https://www.surveystar.net/xmlrpc.php" />
+
+	<script type="text/javascript">
+		document.documentElement.className = 'js';
+	</script>
+	
+	<script>var et_site_url='https://www.surveystar.net';var et_post_id='3';function et_core_page_resource_fallback(a,b){"undefined"===typeof b&&(b=a.sheet.cssRules&&0===a.sheet.cssRules.length);b&&(a.onerror=null,a.onload=null,a.href?a.href=et_site_url+"/?et_core_page_resource="+a.id+et_post_id:a.src&&(a.src=et_site_url+"/?et_core_page_resource="+a.id+et_post_id))}
+</script><title>Privacy Policy | Survey Star</title>
+<meta name="pwaforwp" content="wordpress-plugin"/>
+                      <meta name="theme-color" content="#D5E0EB">
+<link rel="manifest" href="https://www.surveystar.net/wp-json/pwa-for-wp/v2/pwa-manifest-json">
+<meta name="apple-mobile-web-app-title" content="Survey Star">
+            <meta name="application-name" content="Survey Star">
+            <meta name="apple-mobile-web-app-capable" content="yes">
+            <meta name="mobile-web-app-capable" content="yes">
+            <meta name="apple-touch-fullscreen" content="YES">
+<link rel="apple-touch-startup-image" href="https://www.surveystar.net/wp-content/uploads/2020/01/SS_192.png">
+<link rel="apple-touch-icon" sizes="192x192" href="https://www.surveystar.net/wp-content/uploads/2020/01/SS_192.png">
+<link rel="apple-touch-icon-precomposed" sizes="192x192" href="https://www.surveystar.net/wp-content/uploads/2020/01/SS_192.png">
+<link rel="apple-touch-icon" sizes="512x512" href="https://www.surveystar.net/wp-content/uploads/2020/01/SS_512.png">
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Survey Star &raquo; Feed" href="https://www.surveystar.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Survey Star &raquo; Comments Feed" href="https://www.surveystar.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.surveystar.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<meta content="Divi v.4.4.4" name="generator"/><style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='formidable-css'  href='https://www.surveystar.net/wp-content/plugins/formidable/css/formidableforms1.css?ver=428916' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='https://www.surveystar.net/wp-includes/css/dist/block-library/style.min.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-fonts-css'  href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&#038;subset=latin,latin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='divi-style-css'  href='https://www.surveystar.net/wp-content/themes/Divi/style.css?ver=4.4.4' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='https://www.surveystar.net/wp-includes/css/dashicons.min.css?ver=5.4' type='text/css' media='all' />
+<link rel='stylesheet' id='pwaforwp-style-css'  href='https://www.surveystar.net/wp-content/plugins/pwa-for-wp/assets/css/pwaforwp-main.min.css?ver=1.7.10' type='text/css' media='all' />
+<script type='text/javascript' src='https://www.surveystar.net/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='https://www.surveystar.net/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://www.surveystar.net/wp-content/themes/Divi/core/admin/js/es6-promise.auto.min.js?ver=5.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var et_core_api_spam_recaptcha = {"site_key":"","page_action":{"action":"privacy_policy"}};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.surveystar.net/wp-content/themes/Divi/core/admin/js/recaptcha.js?ver=5.4'></script>
+<link rel='https://api.w.org/' href='https://www.surveystar.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.surveystar.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.surveystar.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4" />
+<link rel="canonical" href="https://www.surveystar.net/privacy-policy/" />
+<link rel='shortlink' href='https://www.surveystar.net/?p=3' />
+<link rel="alternate" type="application/json+oembed" href="https://www.surveystar.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.surveystar.net%2Fprivacy-policy%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://www.surveystar.net/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.surveystar.net%2Fprivacy-policy%2F&#038;format=xml" />
+<script id="wpcp_disable_selection" type="text/javascript">
+//<![CDATA[
+var image_save_msg='You Can Not Save images!';
+	var no_menu_msg='Context Menu disabled!';
+	var smessage = "Content is protected !!";
+
+function disableEnterKey(e)
+{
+	var elemtype = e.target.tagName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if (elemtype == "TEXT" || elemtype == "TEXTAREA" || elemtype == "INPUT" || elemtype == "PASSWORD" || elemtype == "SELECT" || elemtype == "OPTION" || elemtype == "EMBED")
+	{
+		elemtype = 'TEXT';
+	}
+	
+	if (e.ctrlKey){
+     var key;
+     if(window.event)
+          key = window.event.keyCode;     //IE
+     else
+          key = e.which;     //firefox (97)
+    //if (key != 17) alert(key);
+     if (elemtype!= 'TEXT' && (key == 97 || key == 65 || key == 67 || key == 99 || key == 88 || key == 120 || key == 26 || key == 85  || key == 86 || key == 83 || key == 43))
+     {
+          show_wpcp_message('You are not allowed to copy content or view source');
+          return false;
+     }else
+     	return true;
+     }
+}
+
+//////////////////////////////////////////////////////////////////////////////////////
+function disable_copy(e)
+{	
+	var elemtype = e.target.tagName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if (elemtype == "TEXT" || elemtype == "TEXTAREA" || elemtype == "INPUT" || elemtype == "PASSWORD" || elemtype == "SELECT" || elemtype == "OPTION" || elemtype == "EMBED")
+	{
+		elemtype = 'TEXT';
+	}
+	var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+	
+	var checker_IMG = '';
+	if (elemtype == "IMG" && checker_IMG == 'checked' && e.detail >= 2) {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT")
+	{
+		if (smessage !== "" && e.detail == 2)
+			show_wpcp_message(smessage);
+		
+		if (isSafari)
+			return true;
+		else
+			return false;
+	}	
+}
+
+//////////////////////////////////////////////////////////////////////////////////////
+function disable_copy_ie()
+{
+	var elemtype = window.event.srcElement.nodeName;
+	elemtype = elemtype.toUpperCase();
+	if (elemtype == "IMG") {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED")
+	{
+		return false;
+	}
+}	
+function reEnable()
+{
+	return true;
+}
+document.onkeydown = disableEnterKey;
+document.onselectstart = disable_copy_ie;
+if(navigator.userAgent.indexOf('MSIE')==-1)
+{
+	document.onmousedown = disable_copy;
+	document.onclick = reEnable;
+}
+function disableSelection(target)
+{
+    //For IE This code will work
+    if (typeof target.onselectstart!="undefined")
+    target.onselectstart = disable_copy_ie;
+    
+    //For Firefox This code will work
+    else if (typeof target.style.MozUserSelect!="undefined")
+    {target.style.MozUserSelect="none";}
+    
+    //All other  (ie: Opera) This code will work
+    else
+    target.onmousedown=function(){return false}
+    target.style.cursor = "default";
+}
+//Calling the JS function directly just after body load
+window.onload = function(){disableSelection(document.body);};
+//]]>
+</script>
+	<script id="wpcp_disable_Right_Click" type="text/javascript">
+	//<![CDATA[
+	document.ondragstart = function() { return false;}
+	/* ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+	Disable context menu on images by GreenLava Version 1.0
+	^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ */
+	    function nocontext(e) {
+	       return false;
+	    }
+	    document.oncontextmenu = nocontext;
+	//]]>
+	</script>
+<style>
+.unselectable
+{
+-moz-user-select:none;
+-webkit-user-select:none;
+cursor: default;
+}
+html
+{
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+</style>
+<script id="wpcp_css_disable_selection" type="text/javascript">
+var e = document.getElementsByTagName('body')[0];
+if(e)
+{
+	e.setAttribute('unselectable',on);
+}
+</script>
+<script type="text/javascript">document.documentElement.className += " js";</script>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://www.surveystar.net/wp-content/uploads/2020/01/cropped-FEVICON-31-1-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://www.surveystar.net/wp-content/uploads/2020/01/cropped-FEVICON-31-1-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.surveystar.net/wp-content/uploads/2020/01/cropped-FEVICON-31-1-180x180.png" />
+<meta name="msapplication-TileImage" content="https://www.surveystar.net/wp-content/uploads/2020/01/cropped-FEVICON-31-1-270x270.png" />
+<link rel="stylesheet" id="et-divi-customizer-global-cached-inline-styles" href="https://www.surveystar.net/wp-content/et-cache/1/1/global/et-divi-customizer-global-16176987784048.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /><link rel="stylesheet" id="et-core-unified-tb-137-3-cached-inline-styles" href="https://www.surveystar.net/wp-content/et-cache/1/1/3/et-core-unified-tb-137-3-16176987784048.min.css" onerror="et_core_page_resource_fallback(this, true)" onload="et_core_page_resource_fallback(this)" /></head>
+<body data-rsssl=1 class="privacy-policy page-template-default page page-id-3 custom-background et-tb-has-template et-tb-has-footer unselectable et_pb_button_helper_class et_fixed_nav et_show_nav et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_header_style_left et_cover_background et_pb_gutter et_pb_gutters3 et_full_width_page et_divi_theme et-db et_minified_js et_minified_css">
+	<div id="page-container">
+<div id="et-boc" class="et-boc">
+			
+		
+
+	<header id="main-header" data-height-onload="90">
+		<div class="container clearfix et_menu_container">
+					<div class="logo_container">
+				<span class="logo_helper"></span>
+				<a href="https://www.surveystar.net/">
+					<img src="https://www.surveystar.net/wp-content/uploads/2020/01/SS_FINAL_LOGO_REVISED.jpg" alt="Survey Star" id="logo" data-height-percentage="90" />
+				</a>
+			</div>
+					<div id="et-top-navigation" data-height="90" data-fixed-height="90">
+									<nav id="top-menu-nav">
+					<ul id="top-menu" class="nav"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-41"><a href="https://www.surveystar.net/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-179"><a href="https://www.surveystar.net/customer-satisfaction/">C-Sat</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-180"><a href="https://www.surveystar.net/research/">Research</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-181"><a href="https://www.surveystar.net/hr/">HR</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-182"><a href="https://www.surveystar.net/marketing/">Marketing</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-244"><a href="https://www.surveystar.net/login/">Login</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-243"><a href="https://www.surveystar.net/register/">Register</a></li>
+</ul>
+</li>
+</ul>					</nav>
+				
+				
+				
+								<div id="et_top_search">
+					<span id="et_search_icon"></span>
+				</div>
+				
+				<div id="et_mobile_nav_menu">
+				<div class="mobile_nav closed">
+					<span class="select_page">Select Page</span>
+					<span class="mobile_menu_bar mobile_menu_bar_toggle"></span>
+				</div>
+			</div>			</div> <!-- #et-top-navigation -->
+		</div> <!-- .container -->
+		<div class="et_search_outer">
+			<div class="container et_search_form_container">
+				<form role="search" method="get" class="et-search-form" action="https://www.surveystar.net/">
+				<input type="search" class="et-search-field" placeholder="Search &hellip;" value="" name="s" title="Search for:" />				</form>
+				<span class="et_close_search_field"></span>
+			</div>
+		</div>
+	</header> <!-- #main-header -->
+<div id="et-main-area">
+	
+<div id="main-content">
+
+
+	<div class="container">
+		<div id="content-area" class="clearfix">
+			<div id="left-area">
+
+
+			
+				<article id="post-3" class="post-3 page type-page status-publish hentry">
+
+				
+					<h1 class="entry-title main_title">Privacy Policy</h1>
+				
+				
+					<div class="entry-content">
+					
+<h2>Who we are</h2>
+
+
+
+<p>Our website address is: https://www.surveystar.net.</p>
+
+
+
+<h2>What personal data we collect and why we collect it</h2>
+
+
+
+<h3>Comments</h3>
+
+
+
+<p>When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.</p>
+
+
+
+<p>An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it. The Gravatar service privacy policy is available here: https://automattic.com/privacy/. After approval of your comment, your profile picture is visible to the public in the context of your comment.</p>
+
+
+
+<h3>Media</h3>
+
+
+
+<p>If you upload images to the website, you should avoid uploading images with embedded location data (EXIF GPS) included. Visitors to the website can download and extract any location data from images on the website.</p>
+
+
+
+<h3>Contact forms</h3>
+
+
+
+<h3>Cookies</h3>
+
+
+
+<p>If you leave a comment on our site you may opt-in to saving your name, email address and website in cookies. These are for your convenience so that you do not have to fill in your details again when you leave another comment. These cookies will last for one year.</p>
+
+
+
+<p>If you visit our login page, we will set a temporary cookie to determine if your browser accepts cookies. This cookie contains no personal data and is discarded when you close your browser.</p>
+
+
+
+<p>When you log in, we will also set up several cookies to save your login information and your screen display choices. Login cookies last for two days, and screen options cookies last for a year. If you select &#8220;Remember Me&#8221;, your login will persist for two weeks. If you log out of your account, the login cookies will be removed.</p>
+
+
+
+<p>If you edit or publish an article, an additional cookie will be saved in your browser. This cookie includes no personal data and simply indicates the post ID of the article you just edited. It expires after 1 day.</p>
+
+
+
+<h3>Embedded content from other websites</h3>
+
+
+
+<p>Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.</p>
+
+
+
+<p>These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.</p>
+
+
+
+<h3>Analytics</h3>
+
+
+
+<h2>Who we share your data with</h2>
+
+
+
+<h2>How long we retain your data</h2>
+
+
+
+<p>If you leave a comment, the comment and its metadata are retained indefinitely. This is so we can recognize and approve any follow-up comments automatically instead of holding them in a moderation queue.</p>
+
+
+
+<p>For users that register on our website (if any), we also store the personal information they provide in their user profile. All users can see, edit, or delete their personal information at any time (except they cannot change their username). Website administrators can also see and edit that information.</p>
+
+
+
+<h2>What rights you have over your data</h2>
+
+
+
+<p>If you have an account on this site, or have left comments, you can request to receive an exported file of the personal data we hold about you, including any data you have provided to us. You can also request that we erase any personal data we hold about you. This does not include any data we are obliged to keep for administrative, legal, or security purposes.</p>
+
+
+
+<h2>Where we send your data</h2>
+
+
+
+<p>Visitor comments may be checked through an automated spam detection service.</p>
+
+
+
+<h2>Your contact information</h2>
+
+
+
+<h2>Additional information</h2>
+
+
+
+<h3>How we protect your data</h3>
+
+
+
+<h3>What data breach procedures we have in place</h3>
+
+
+
+<h3>What third parties we receive data from</h3>
+
+
+
+<h3>What automated decision making and/or profiling we do with user data</h3>
+
+
+
+<h3>Industry regulatory disclosure requirements</h3>
+					</div> <!-- .entry-content -->
+
+				
+				</article> <!-- .et_pb_post -->
+
+			
+
+			</div> <!-- #left-area -->
+
+					</div> <!-- #content-area -->
+	</div> <!-- .container -->
+
+
+</div> <!-- #main-content -->
+
+	<footer class="et-l et-l--footer">
+			<div class="et_builder_inner_content et_pb_gutters3"><div class="et_pb_section et_pb_section_0_tb_footer et_pb_with_background et_section_regular" >
+				
+				
+				
+				
+					<div class="et_pb_row et_pb_row_0_tb_footer">
+				<div class="et_pb_column et_pb_column_1_3 et_pb_column_0_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_0_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p><a href="https://www.surveystar.net/">Home</a></p>
+<p><a href="https://www.surveystar.net/customer-satisfaction/">C-Sat</a></p>
+<p><a href="https://www.surveystar.net/research/">Research</a></p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_1_tb_footer  et_pb_css_mix_blend_mode_passthrough">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_1_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p><a href="https://www.surveystar.net/hr/">HR</a></p>
+<p><a href="https://www.surveystar.net/marketing/">Marketing</a></p>
+<p><a href="https://www.surveystar.net/privacy-policy/" target="_blank" rel="noopener noreferrer" title="Privacy Policy"></a></p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column --><div class="et_pb_column et_pb_column_1_3 et_pb_column_2_tb_footer  et_pb_css_mix_blend_mode_passthrough et-last-child">
+				
+				
+				<div class="et_pb_module et_pb_text et_pb_text_2_tb_footer  et_pb_text_align_left et_pb_bg_layout_light">
+				
+				
+				<div class="et_pb_text_inner"><p><span>© </span>Survey Star 2020</p>
+<p><a href="https://www.surveystar.net/terms-and-conditions/" target="_blank" rel="noopener noreferrer" title="T&amp;C ">Terms &amp; Conditions</a></p>
+<p><a href="https://www.surveystar.net/privacy-policy/" target="_blank" rel="noopener noreferrer" title="Privacy Policy">Privacy Policy</a></p></div>
+			</div> <!-- .et_pb_text -->
+			</div> <!-- .et_pb_column -->
+				
+				
+			</div> <!-- .et_pb_row -->
+				
+				
+			</div> <!-- .et_pb_section -->		</div><!-- .et_builder_inner_content -->
+	</footer><!-- .et-l -->
+	    </div> <!-- #et-main-area -->
+
+			
+		</div><!-- #et-boc -->
+		</div> <!-- #page-container -->
+
+				<div id="wpcp-error-message" class="msgmsg-box-wpcp warning-wpcp hideme"><span>error: </span>Content is protected !!</div>
+	<script>
+	var timeout_result;
+	function show_wpcp_message(smessage)
+	{
+		if (smessage !== "")
+			{
+			var smessage_text = '<span>Alert: </span>'+smessage;
+			document.getElementById("wpcp-error-message").innerHTML = smessage_text;
+			document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp showme";
+			clearTimeout(timeout_result);
+			timeout_result = setTimeout(hide_message, 3000);
+			}
+	}
+	function hide_message()
+	{
+		document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp hideme";
+	}
+	</script>
+		<style>
+	@media print {
+	body * {display: none !important;}
+		body:after {
+		content: "You are not allowed to print preview this page, Thank you"; }
+	}
+	</style>
+		<style type="text/css">
+	#wpcp-error-message {
+	    direction: ltr;
+	    text-align: center;
+	    transition: opacity 900ms ease 0s;
+	    z-index: 99999999;
+	}
+	.hideme {
+    	opacity:0;
+    	visibility: hidden;
+	}
+	.showme {
+    	opacity:1;
+    	visibility: visible;
+	}
+	.msgmsg-box-wpcp {
+		border-radius: 10px;
+		color: #555;
+		font-family: Tahoma;
+		font-size: 11px;
+		margin: 10px;
+		padding: 10px 36px;
+		position: fixed;
+		width: 255px;
+		top: 50%;
+  		left: 50%;
+  		margin-top: -10px;
+  		margin-left: -130px;
+  		-webkit-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		-moz-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+	}
+	.msgmsg-box-wpcp span {
+		font-weight:bold;
+		text-transform:uppercase;
+	}
+	.error-wpcp {		background:#ffecec url('https://www.surveystar.net/wp-content/plugins/wp-content-copy-protector/images/error.png') no-repeat 10px 50%;
+		border:1px solid #f5aca6;
+	}
+	.success {
+		background:#e9ffd9 url('https://www.surveystar.net/wp-content/plugins/wp-content-copy-protector/images/success.png') no-repeat 10px 50%;
+		border:1px solid #a6ca8a;
+	}
+	.warning-wpcp {
+		background:#ffecec url('https://www.surveystar.net/wp-content/plugins/wp-content-copy-protector/images/warning.png') no-repeat 10px 50%;
+		border:1px solid #f5aca6;
+	}
+	.notice {
+		background:#e3f7fc url('https://www.surveystar.net/wp-content/plugins/wp-content-copy-protector/images/notice.png') no-repeat 10px 50%;
+		border:1px solid #8ed9f6;
+	}
+    </style>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var DIVI = {"item_count":"%d Item","items_count":"%d Items"};
+var et_shortcodes_strings = {"previous":"Previous","next":"Next"};
+var et_pb_custom = {"ajaxurl":"https:\/\/www.surveystar.net\/wp-admin\/admin-ajax.php","images_uri":"https:\/\/www.surveystar.net\/wp-content\/themes\/Divi\/images","builder_images_uri":"https:\/\/www.surveystar.net\/wp-content\/themes\/Divi\/includes\/builder\/images","et_frontend_nonce":"0c069a9af8","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","et_ab_log_nonce":"357b97f092","fill_message":"Please, fill in the following fields:","contact_error_message":"Please, fix the following errors:","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next","wrong_captcha":"You entered the wrong number in captcha.","wrong_checkbox":"Checkbox","ignore_waypoints":"no","is_divi_theme_used":"1","widget_search_selector":".widget_search","ab_tests":[],"is_ab_testing_active":"","page_id":"3","unique_test_id":"","ab_bounce_rate":"5","is_cache_plugin_active":"no","is_shortcode_tracking":"","tinymce_uri":""}; var et_frontend_scripts = {"builderCssContainerPrefix":"#et-boc","builderCssLayoutPrefix":"#et-boc .et-l"};
+var et_pb_box_shadow_elements = [];
+var et_pb_motion_elements = {"desktop":[],"tablet":[],"phone":[]};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://www.surveystar.net/wp-content/themes/Divi/js/custom.unified.js?ver=4.4.4'></script>
+<script type='text/javascript' src='https://www.surveystar.net/wp-content/themes/Divi/core/admin/js/common.js?ver=4.4.4'></script>
+<script type='text/javascript' src='https://www.surveystar.net/?pwa_for_wp_script=1&#038;sw=pwa-register-sw-1-js&#038;ver=1.7.10'></script>
+<script type='text/javascript' src='https://www.surveystar.net/wp-includes/js/wp-embed.min.js?ver=5.4'></script>
+		
+	</body>
+</html>

@@ -1,0 +1,10 @@
+D:\C#\Homework9\winFormRe\bin\Debug\winFormRe.exe.config
+D:\C#\Homework9\winFormRe\bin\Debug\winFormRe.exe
+D:\C#\Homework9\winFormRe\bin\Debug\winFormRe.pdb
+D:\C#\Homework9\winFormRe\obj\Debug\winFormRe.Form1.resources
+D:\C#\Homework9\winFormRe\obj\Debug\winFormRe.Properties.Resources.resources
+D:\C#\Homework9\winFormRe\obj\Debug\winFormRe.csproj.GenerateResource.cache
+D:\C#\Homework9\winFormRe\obj\Debug\winFormRe.csproj.CoreCompileInputs.cache
+D:\C#\Homework9\winFormRe\obj\Debug\winFormRe.exe
+D:\C#\Homework9\winFormRe\obj\Debug\winFormRe.pdb
+D:\C#\Homework9\winFormRe\obj\Debug\winFormRe.csprojAssemblyReference.cache

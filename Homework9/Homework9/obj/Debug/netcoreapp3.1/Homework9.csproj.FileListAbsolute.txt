@@ -1,0 +1,13 @@
+D:\C#\Homework9\Homework9\bin\Debug\netcoreapp3.1\Homework9.exe
+D:\C#\Homework9\Homework9\bin\Debug\netcoreapp3.1\Homework9.deps.json
+D:\C#\Homework9\Homework9\bin\Debug\netcoreapp3.1\Homework9.runtimeconfig.json
+D:\C#\Homework9\Homework9\bin\Debug\netcoreapp3.1\Homework9.runtimeconfig.dev.json
+D:\C#\Homework9\Homework9\bin\Debug\netcoreapp3.1\Homework9.dll
+D:\C#\Homework9\Homework9\bin\Debug\netcoreapp3.1\Homework9.pdb
+D:\C#\Homework9\Homework9\obj\Debug\netcoreapp3.1\Homework9.csprojAssemblyReference.cache
+D:\C#\Homework9\Homework9\obj\Debug\netcoreapp3.1\Homework9.AssemblyInfoInputs.cache
+D:\C#\Homework9\Homework9\obj\Debug\netcoreapp3.1\Homework9.AssemblyInfo.cs
+D:\C#\Homework9\Homework9\obj\Debug\netcoreapp3.1\Homework9.csproj.CoreCompileInputs.cache
+D:\C#\Homework9\Homework9\obj\Debug\netcoreapp3.1\Homework9.dll
+D:\C#\Homework9\Homework9\obj\Debug\netcoreapp3.1\Homework9.pdb
+D:\C#\Homework9\Homework9\obj\Debug\netcoreapp3.1\Homework9.genruntimeconfig.cache
