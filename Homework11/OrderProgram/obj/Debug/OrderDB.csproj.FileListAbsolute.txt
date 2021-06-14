@@ -1,0 +1,4 @@
+D:\BaiduNetdiskDownload\cs.net-HomeWork-main\cs.net-HomeWork-main\Homework11\OrderProgram\obj\Debug\OrderDB.csproj.AssemblyReference.cache
+D:\BaiduNetdiskDownload\cs.net-HomeWork-main\cs.net-HomeWork-main\Homework11\OrderProgram\obj\Debug\OrderDB.csproj.CoreCompileInputs.cache
+D:\BaiduNetdiskDownload\cs.net-HomeWork-main\cs.net-HomeWork-main\Homework11\OrderProgram\obj\Debug\OrderProgram.exe
+D:\BaiduNetdiskDownload\cs.net-HomeWork-main\cs.net-HomeWork-main\Homework11\OrderProgram\obj\Debug\OrderProgram.pdb
